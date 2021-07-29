@@ -9,8 +9,7 @@
 
 ## Description
 
-APIs using [Nest](https://github.com/nestjs/nest) framework. 
-This is project to get start with NestJS and Typescript. I followed [blog](https://wanago.io/2020/05/11/nestjs-api-controllers-routing-module) and used TypeScript starter repository to bootstrap this project.
+This project is about building APIs using [Nest](https://github.com/nestjs/nest) framework and typescript. This is build by following posts from [blog](https://wanago.io/2020/05/11/nestjs-api-controllers-routing-module) and by using TypeScript starter repository to bootstrap.
 
 ## Installation
 
@@ -43,17 +42,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-  Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
